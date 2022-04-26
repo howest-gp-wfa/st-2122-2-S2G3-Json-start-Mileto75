@@ -1,0 +1,2 @@
+const lesson = `{"subject":"Javascript", "module" : "WFA", "day" : "maandag", "room" : "K1.016", "building" : 
+"BST1", "hours" : 4}`;
